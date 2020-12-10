@@ -1,4 +1,5 @@
 import React from 'react';
+import './Header.css';
 import logo from '../img/mern-logo.png';
 import SearchIcon from '@material-ui/icons/Search';
 import HomeIcon from '@material-ui/icons/Home';
