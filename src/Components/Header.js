@@ -16,7 +16,7 @@ import { Avatar, IconButton } from '@material-ui/core';
 const Header = () => {
   return (
     <div className='header'>
-      <div className='header-left'>
+      <div className='header-logo'>
         <img src={logo} alt='mern logo' />
       </div>
       <div className='header-input'>
