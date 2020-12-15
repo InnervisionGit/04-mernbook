@@ -9,9 +9,11 @@ function App() {
       <h2>MongoDB: 04-mernbook</h2>
       <h1>9LxCDH1V5IJ3Sy0c</h1>
       <Header />
-      <Sidebar />
-      <Feed />
-      {/* widgets */}
+      <div className='app-body'>
+        <Sidebar />
+        <Feed />
+        {/* widgets */}
+      </div>
     </div>
   );
 }
