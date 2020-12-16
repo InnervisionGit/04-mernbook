@@ -1,3 +1,3 @@
-### TODO:
+### A Social Network Project
 
--readme.md
+-Post Text and Images in the Feed
