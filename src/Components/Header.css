@@ -44,22 +44,25 @@
 }
 .header-option:hover {
   background-color: beige;
-  border-radius: 10px;
   align-items: center;
   padding: 0 30px;
   border-bottom: none;
 }
-.header-option-active > .MuiSvgIcon-root {
-  color: dodgerblue;
+
+.header-option > .MuiSvgIcon-root {
+  color: grey;
 }
 .header-option-active {
   border-bottom: 4px solid #2e81f4;
 }
-.header-option > .MuiSvgIcon-root {
-  color: grey;
-}
 .header-option:hover > .MuiSvgIcon-root {
-  color: dodgerblue;
+  color: black;
+}
+.header-option-active:hover {
+  border-bottom: 4px solid #2e81f4;
+}
+.header-option-active > .MuiSvgIcon-root {
+  color: black;
 }
 .header-info {
   display: flex;

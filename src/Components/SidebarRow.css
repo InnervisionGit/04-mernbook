@@ -3,11 +3,13 @@
   align-items: center;
   padding: 10px;
   cursor: pointer;
+  color: gray;
 }
 
 .sidebarRow:hover {
   background-color: beige;
   border-radius: 10px;
+  color: black;
 }
 
 .sidebarRow > p {
