@@ -35,3 +35,23 @@
   color: transparent;
   border: none;
 }
+.messageSender-bottom {
+  display: flex;
+  justify-content: space-evenly;
+  height: 50px;
+}
+.messageSender-option {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  color: gray;
+  margin: 5px;
+}
+.messageSender-option > h3 {
+  font-size: medium;
+  margin-left: 10px;
+}
+.messageSender-option:hover {
+  background-color: beige;
+  border-radius: 10px;
+}
