@@ -46,6 +46,7 @@
   align-items: center;
   color: gray;
   margin: 5px;
+  min-width: 115px;
 }
 .messageSender-option > h3 {
   font-size: medium;
