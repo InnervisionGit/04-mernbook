@@ -13,7 +13,7 @@ const StoryReel = () => {
       <Story
         image='https://esportbet.com/wp-content/uploads/2019/04/G2-esports.jpg'
         profileSrc='https://i.pinimg.com/originals/52/04/27/5204272acf38e9f8b9d2e8b405b13bc6.jpg'
-        title='G2'
+        title='G2 - Esports'
       />
       <Story
         image='https://i.dailymail.co.uk/i/pix/2017/11/02/17/45F29EA600000578-5043929-image-a-17_1509644845604.jpg'
